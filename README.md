@@ -1,3 +1,15 @@
+#fullStack-SSPPVR
+
+## This is a full stack proyect created with the following technologies:
+
+- Frontend: Svelte.js
+- API: Svelte-kit
+- DataBase: PostgreSQL
+- Query Builder: Prisma
+- Deploy: Vercel
+- Infrastructure platform: Railway
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
